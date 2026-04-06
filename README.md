@@ -8,4 +8,4 @@ The hook outlines the case study and the rubric details the requirments and fina
 # Data
 The necessary data for this case study is located in the "data" folder. This data has been cleaned to remove duplicates, art work without periods or links, and to only include paintings.
 # Reference Materials
-The "Reference Materials" folder contains helpful resources about image classification using CNN, TensorFlow/Keras Image Classification Tutorial,  well as a blog post about Met related data analysis and visulizations.
+The "Materials" folder contains helpful resources about image classification using CNN, TensorFlow/Keras Image Classification Tutorial,  well as a blog post about Met related data analysis and visulizations.
