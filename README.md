@@ -1,5 +1,7 @@
 # CS3-DS4002
 This repository contains the case study, deliverable, data, and refrence materials needed to complete CS2.
+# DS 4002 Case Study by Carly Farrey
+
 # Hook and Rubric Documents
 The hook and rubric documents are labeled:
 - CS3-Hook.pdf
